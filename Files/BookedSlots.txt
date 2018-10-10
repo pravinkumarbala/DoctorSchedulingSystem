@@ -1,0 +1,4 @@
+Fname 	Lname 	ExistSlot 	CustName 	CustAddr 	CustPNo 	CustEmail 
+Pravin	Kumar	10:00	Karthik	Chennai	987654321	karthik@full.com
+Pravin	Kumar	10:15	Akila	Vellore	123456789	akila@full.com
+Pravin	Kumar	11:45	Dharani	Madurai	987654321	dharani@full.com
